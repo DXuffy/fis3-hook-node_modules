@@ -1,0 +1,25 @@
+{
+  "name": "fis3-hook-node_modules",
+  "version": "1.1.2",
+  "description": "fis3 node_modules support",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "fis3-hook-commonjs": "^0.1.12"
+  },
+  "dependencies": {
+    "buffer": "^4.4.0",
+    "is-buffer": "^1.1.2",
+    "lodash": "^4.3.0",
+    "object-assign": "^4.0.1",
+    "process": "^0.11.2",
+    "resolve": "^1.1.7"
+  }
+}
